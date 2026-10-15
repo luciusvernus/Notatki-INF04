@@ -1,0 +1,4 @@
+System operacyjny: Windows 11
+Środowiska programistyczne: IntelliJ IDEA (aplikacja konsolowa), Android Studio (aplikacja mobilna)
+Emulator: Pixel 8 (Android 16, API 36) z Android Studio
+Języki programowania: Java (aplikacja konsolowa i mobilna), XML (układ aplikacji mobilnej)
