@@ -27,7 +27,7 @@ public class Notatka {
                     dla ważnej notatki), treść, data dodania, linia podkreślników
       parametry:    brak
       zwracany typ: brak (void)
-      autor:        Bartosz Bryniarski
+      autor:        Lucjan Reiter
     */
     public void wyswietl() {
         System.out.println("____________________");
